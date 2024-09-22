@@ -5,8 +5,8 @@
 
 1. Clone the repository : `git clone https://github.com/vijaygehlot/bhive-web.git`
 2. cd `bhive-web`
-3. Run `yarn install` to install the dependencies
-4. Run `yarn start` to start the server
+3. Run `npm install` to install the dependencies
+4. Run `npm start` to start the server
 5. Open `http://localhost:3000` in your browser
 
 ## Tech Stack:
