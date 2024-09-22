@@ -1,6 +1,20 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Setup:
+
+1. Clone the repository : `git clone https://github.com/vijaygehlot/bhive-web.git`
+2. cd `bhive-web`
+3. Run `yarn install` to install the dependencies
+4. Run `yarn start` to start the server
+5. Open `http://localhost:3000` in your browser
+
+## Tech Stack:
+
+- React JS
+- SCSS
+- TypeScript
+- Redux Toolkit
 
 ## Available Scripts
 
