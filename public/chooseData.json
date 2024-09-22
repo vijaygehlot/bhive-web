@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Community Events",
+      "image_path": "/images/cal.png"
+    },
+    {
+      "id": 2,
+      "title": "Gym Facilities",
+      "image_path": "/images/Group.png"
+    },
+    {
+      "id": 3,
+      "title": "High-Speed WiFi",
+      "image_path": "/images/wifi.png"
+    },
+    {
+      "id": 4,
+      "title": "Cafe & Tea Bar",
+      "image_path": "/images/cup.png"
+    },
+    {
+      "id": 5,
+      "title": "Affordable",
+      "image_path": "/images/ruppe.png"
+    },
+    {
+      "id": 6,
+      "title": "Comfort Lounges",
+      "image_path": "/images/hospital.png"
+    },
+    {
+      "id": 7,
+      "title": "Quick Booking",
+      "image_path": "/images/clock.png"
+    },
+    {
+      "id": 8,
+      "title": "Sports Area",
+      "image_path": "/images/sport.png"
+    }
+  ]
+  

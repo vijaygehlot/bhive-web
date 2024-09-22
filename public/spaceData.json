@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "HSR Sector 6, Service Road",
+      "image_path": "/images/1.jpg",
+      "category": "Workspace",
+      "category_icon": "/images/workspace.png",
+      "distance": "6 Kms",
+      "price": 2400
+    },
+    {
+      "id": 2,
+      "title": "HSR Sector 6, Service Road",
+      "image_path": "/images/2.jpg",
+      "category": "Honeykomb",
+      "category_icon": "/images/honycomb.png",
+      "distance": "4 Kms",
+      "price": 2400
+    },
+    {
+      "id": 3,
+      "title": "HSR Sector 6, Service Road",
+      "category": "Platinum",
+      "image_path": "/images/3.jpg",
+      "category_icon": "/images/platinum.png",
+      "distance": "8 Kms",
+      "price": 2400
+    },
+    {
+      "id": 4,
+      "title": "HSR Sector 6, Service Road",
+      "category": "Workspace",
+      "image_path": "/images/4.jpg",
+      "category_icon": "/images/workspace.png",
+      "distance": "7 Kms",
+      "price": 2400
+    },
+    {
+      "id": 5,
+      "title": "HSR Sector 6, Service Road",
+      "image_path": "/images/5.jpg",
+      "category": "Campus",
+      "category_icon": "/images/campus.png",
+      "distance": "5 Kms",
+      "price": 2400
+    },
+    {
+      "id": 6,
+      "title": "HSR Sector 6, Service Road",
+      "image_path": "/images/3.jpg",
+      "category": "Premium",
+      "category_icon": "/images/premium.png",
+      "distance": "3 Kms",
+      "price": 2400
+    }
+  ]
+  
